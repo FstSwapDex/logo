@@ -1,0 +1,11 @@
+{
+ "name": "Fist Token",
+ "website": "https://fswap.vip",
+ "description": "FIST as the value-defining platform currency of FstSwap.",
+ "explorer": "https://bscscan.com/token/0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+ "type": "BEP20",
+ "symbol": "FIST",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a"
+}
