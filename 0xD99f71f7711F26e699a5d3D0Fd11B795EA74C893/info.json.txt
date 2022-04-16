@@ -1,0 +1,11 @@
+{
+ "name": "PG Token",
+ "website": "https://fswap.vip",
+ "description": "PG as the value-defining platform currency of FstSwap.",
+ "explorer": "https://bscscan.com/token/0xD99f71f7711F26e699a5d3D0Fd11B795EA74C893",
+ "type": "BEP20",
+ "symbol": "PG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xD99f71f7711F26e699a5d3D0Fd11B795EA74C893"
+}
