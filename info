@@ -1,11 +1,11 @@
 {
  "name": "SHJ",
  "website": "https://shjtoken.vip",
- "description": "SHJ is one of the Pangu ecological tokens, building a complete DAO organization.",
- "explorer": "https://bscscan.com/token/0x30a9a76dD605A0592561E6dE4f36E154af81153a",
+ "description": "FIST as the value-defining platform currency of FstSwap.",
+ "explorer": "https://bscscan.com/token/0x30a9a76dd605a0592561e6de4f36e154af81153a",
  "type": "BEP20",
  "symbol": "SHJ",
- "decimals": 9,
+ "decimals": 6,
  "status": "active",
- "id": "0x30a9a76dD605A0592561E6dE4f36E154af81153a"
+ "id": "0x30a9a76dd605a0592561e6de4f36e154af81153a"
 }
