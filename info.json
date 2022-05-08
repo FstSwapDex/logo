@@ -1,0 +1,11 @@
+{
+ "name": "SpaceFist",
+ "website": "https://spacefist.fstswap.us",
+ "description": "Space Fist perfectly integrates PoS and PoW, resulting in the PoW+PoS hybrid consensus mechanism.",
+ "explorer": "https://bscscan.com/address/0xaa5C3825FcA1C8b7AC443458DD4bc73F0074ef1f",
+ "type": "BEP20",
+ "symbol": "SpaceFist",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaa5C3825FcA1C8b7AC443458DD4bc73F0074ef1f"
+}
