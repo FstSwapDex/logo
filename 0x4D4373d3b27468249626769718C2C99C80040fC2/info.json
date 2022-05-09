@@ -1,0 +1,11 @@
+{
+    "name": "DSNToken",
+    "website": "-",
+    "description": "Win win cooperation",
+    "explorer": "https://bscscan.com/address/0x4D4373d3b27468249626769718C2C99C80040fC2",
+    "type": "BEP20",
+    "symbol": "DSN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4D4373d3b27468249626769718C2C99C80040fC2"
+   }
