@@ -1,0 +1,11 @@
+{
+ "name": "BelecX Token",
+ "website": "https://belecx.com",
+ "description": "The BelecX protocol will build and combine the crypto industry's Metaverse+NFT+GameFi+Defi+ blind-box multi-ring crypto world based on previous standards.BelecX provides a solution for web3.0 true autonomous community modules.",
+ "explorer": "https://bscscan.com/token/0x3eE08275b513f3085231Ccc85de4C386FCc1f18b",
+ "type": "BEP20",
+ "symbol": "BEX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3eE08275b513f3085231Ccc85de4C386FCc1f18b"
+}
