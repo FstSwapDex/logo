@@ -1,0 +1,11 @@
+{
+ "name": "Goog Right AI",
+ "website": "https://fswap.vip",
+ "description": "GRA as the value-defining platform currency of FstSwap.",
+ "explorer": "https://bscscan.com/token/0x35c5eca4436d64203219598d44e8a7e4f5152132",
+ "type": "BEP20",
+ "symbol": "GRA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35C5EcA4436D64203219598D44E8A7E4f5152132"
+}
