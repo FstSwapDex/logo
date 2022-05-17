@@ -1,0 +1,11 @@
+{
+ "name": "ATM Token",
+ "website": "https://angelstomiracles.com",
+ "description": "ATM DAO aims to help the ecological development of FstSwap, a decentralized trading platform based on BSC.",
+ "explorer": "https://bscscan.com/token/0xbF8a70bc18d42e3782Ee89f72E5E3456d8327ceA",
+ "type": "BEP20",
+ "symbol": "ATM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbF8a70bc18d42e3782Ee89f72E5E3456d8327ceA"
+}
