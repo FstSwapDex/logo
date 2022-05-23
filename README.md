@@ -13,3 +13,6 @@ Submitting token icons through GitHub is the only channel officially designated,
 How long does the audit take?
 After further verification by the administrator, the merge will be requested. If there are any other needs or changes, the information on the chain will prevail. ‌
 Once the admin has merged the pull request, the token's icon can be updated. Please Do not submit pull requests repeatedly! Thank you for your patience. ‌‌‌
+
+caution
+The amount of your liquidity FIST needs to be greater than 100,000 FIST. If you want to submit farm cooperation, please contact https://t.me/FstSwapLinda
