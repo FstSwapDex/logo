@@ -1,0 +1,11 @@
+{
+ "name": "BIB Token",
+ "website": "http://web.springcommu.com/",
+ "description": "Bib is the governance certificate of a series of ecological application systems of spring community Dao Spring International autonomous community.",
+ "explorer": "https://bscscan.com/token/0x8766aBE2C911315d4130f2F18E9aD101605E7742",
+ "type": "BEP20",
+ "symbol": "BIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8766aBE2C911315d4130f2F18E9aD101605E7742"
+}
