@@ -1,0 +1,11 @@
+{
+ "name": "GRA-NFT",
+ "website": "https://fswap.vip",
+ "description": "FIST as the value-defining platform currency of FstSwap.",
+ "explorer": "https://bscscan.com/address/0x20E1f2B1E465109d79450763383C1C74f7831FC6",
+ "type": "BEP20",
+ "symbol": "GRA-NFT",
+ "decimals": 1,
+ "status": "active",
+ "id": "0x20E1f2B1E465109d79450763383C1C74f7831FC6"
+}
