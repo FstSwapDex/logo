@@ -1,0 +1,11 @@
+{
+  "name": "God of light",
+  "website": "https://godoflight.pro/",
+  "description": "GOL is the NFT/GAMEFI ecological currency that powers the FstSwap platform.",
+  "explorer": "https://bscscan.com/token/0x69c25d9947478e4d7c31a4c6c353151620d8d5c8",
+  "type": "BEP20",
+  "symbol": "GOL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x69c25d9947478e4d7c31a4c6c353151620d8d5c8"
+}
