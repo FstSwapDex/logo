@@ -1,0 +1,11 @@
+{
+ "name": "PIPA",
+ "website": "https://www.mucnft.cc",
+ "description": "MUCNFT 专注于全球顶级音乐艺术作品的原创保护和知识产权数字化，成为 NFT 领域的标杆明星项目，为全球音乐艺术家与粉丝建立 桥梁，推动产业成长。为共享的虚拟世界提供了基础设施的支持，包 括一个去中心化的领地所有权账本、一份描述每块领地内容的协 议 以及用户互动的点对点网络。",
+ "explorer": "https://bscscan.com/token/0xe6b41f9f8ff57f81b8fe237381f9dc370d8bb1ea",
+ "type": "BEP20",
+ "symbol": "PIPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe6b41f9f8ff57f81b8fe237381f9dc370d8bb1ea"
+}
