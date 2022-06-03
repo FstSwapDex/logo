@@ -1,0 +1,11 @@
+{
+ "name": "TGCoin",
+ "website": "http://www.troyfoundation.com",
+ "description": "Evreyone can create",
+ "explorer": "https://bscscan.com/token/0x9B1e4cD195b78Da62235b5579359B7FdA75D132a",
+ "type": "BEP20",
+ "symbol": "TGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9B1e4cD195b78Da62235b5579359B7FdA75D132a"
+}
