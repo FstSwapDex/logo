@@ -1,0 +1,11 @@
+{
+ "name": "FTTS-Bosscoin",
+ "website": "http://web.FTTS-Boss.com",
+ "description": "Ftts-boss is a high-quality ECOLOGY of FTTS officially supported by FTTS, which is jointly initiated by many core partners of FTTS.",
+ "explorer": "https://bscscan.com/address/0xe8be3e95e86a4467cbdc03778b47019dabadba2b",
+ "type": "BEP20",
+ "symbol": "FTTS-Boss",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE8bE3e95E86a4467CbDC03778B47019DabADBA2B"
+}
