@@ -1,0 +1,11 @@
+{
+ "name": "FISTDOG",
+ "website": "http://www.fswaptools.com/",
+ "description": "#FDOG as the value-defining ecological currency of FTTS.",
+ "explorer": "https://bscscan.com/token/0x3C2e3259e0d3889cfC65bf5c6F58d9fb4de3BF39",
+ "type": "BEP20",
+ "symbol": "FIST",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x3C2e3259e0d3889cfC65bf5c6F58d9fb4de3BF39"
+}
