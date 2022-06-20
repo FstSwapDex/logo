@@ -1,0 +1,1 @@
+{    "name": "KOI Token",    "website": "-",    "description": "KOI is the value-defining platform currency of KOYDAO.",    "explorer": "https://bscscan.com/address/0xd9504a9cc309ebfd82f4e715cf475a781319543c",    "type": "BEP20",    "symbol": "KOI",    "decimals": 9,    "status": "active",    "id": "0xd9504a9cc309ebfd82f4e715cf475a781319543c"   }
