@@ -1,0 +1,11 @@
+{
+    "name": "Fist Tribe",
+    "website": "https://fisttribe.vip/",
+    "description": "FIST tribe是为了大型商业消费和娱乐性消费更具多样化而设计的，FSTBE是其生态治理代币",
+    "explorer": "https://bscscan.com/address/0xba4bd2aa8694f0f42193ed6649306f6a0dc54194",
+    "type": "BEP20",
+    "symbol": "FSTBE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBA4bd2Aa8694f0f42193Ed6649306F6A0DC54194"
+   }
