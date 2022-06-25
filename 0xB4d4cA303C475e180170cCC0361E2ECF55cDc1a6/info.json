@@ -1,0 +1,11 @@
+{
+    "name": "kunpeng",
+    "website": "http://fistkunpeng.com/",
+    "description": "Kunpeng is one of the ecological symbols of Pangu, creating a complete blockchain game organization",
+    "explorer": "https://bscscan.com/token/0xB4d4cA303C475e180170cCC0361E2ECF55cDc1a6",
+    "type": "BEP20",
+    "symbol": "kp",
+     "decimals": 6,
+    "status": "active",
+    "id": "0xB4d4cA303C475e180170cCC0361E2ECF55cDc1a6"
+   }
