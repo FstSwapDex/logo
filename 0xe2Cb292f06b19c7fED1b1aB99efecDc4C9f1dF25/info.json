@@ -1,0 +1,20 @@
+{
+ 
+"name": "OSKMOON Token",
+
+"website": "https://www.oskmoon.vip/",
+
+"description": "OSKMOON aim to support OSK Token to the moon.",
+
+"explorer": "https://bscscan.com/token/0xe2Cb292f06b19c7fED1b1aB99efecDc4C9f1dF25",
+
+"type": "BEP20",
+
+"symbol": "OSKMOON",
+ "decimals": 18,
+
+"status": "active",
+
+"id": "0xe2Cb292f06b19c7fED1b1aB99efecDc4C9f1dF25"
+
+}
