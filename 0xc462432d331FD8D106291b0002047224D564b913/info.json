@@ -1,0 +1,11 @@
+{
+  "name": "HMB",
+  "website": ".",
+  "description": ".",
+  "explorer": "https://bscscan.com/token/0xc462432d331FD8D106291b0002047224D564b913",
+  "type": "BEP20",
+  "symbol": "HMB",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xc462432d331FD8D106291b0002047224D564b913"
+} 
