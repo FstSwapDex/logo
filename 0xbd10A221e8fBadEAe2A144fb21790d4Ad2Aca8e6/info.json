@@ -1,0 +1,11 @@
+{
+  "name": "Oscars",
+  "website": "https://noahsar.com/",
+  "description": "Oscar Awards",
+  "explorer": "https://bscscan.com/address/0xbd10a221e8fbadeae2a144fb21790d4ad2aca8e6",
+  "type": "BEP20",
+  "symbol": "OSC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbd10A221e8fBadEAe2A144fb21790d4Ad2Aca8e6"
+ }
